@@ -1,4 +1,4 @@
-import pickle  #_pickle  <-origin
+import pickle as _pickle  #_pickle  <-origin
 import json
 import os
 import re
