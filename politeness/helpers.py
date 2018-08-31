@@ -1,4 +1,4 @@
-import _pickle
+import _pickle as cPickle
 import json
 import os
 import re
