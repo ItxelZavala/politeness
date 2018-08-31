@@ -1,4 +1,4 @@
-import pickle
+import pickle as _pickle
 import nltk
 import string
 
